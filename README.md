@@ -48,7 +48,7 @@ xxxxxxxx
 3.在[ Actions > Cloud189Checkin > Run workflow ]手动运行一次  
 ![Run workflow](https://tu.yaohuo.me/imgs/2020/12/3ac171041a7f730e.png)
 
-## 四、查看运行结果
+## 四、查看运行结果-
 Actions > Cloud189Checkin > build  
 能看到如下图所示，表示成功  
 ![](https://tu.yaohuo.me/imgs/2020/12/fd318c951e1c9b3b.jpg)
